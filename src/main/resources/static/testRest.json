@@ -1,0 +1,35 @@
+{
+  "contact": [
+    {
+      "@type": "company",
+      "contactInfo": [
+        {
+          "@type": "address",
+          "lastUpdated": [
+            2018,
+            2,
+            20
+          ],
+          "streetName": "streetname"
+        }
+      ],
+      "companyName": "company1"
+    },
+    {
+      "@type": "person",
+      "contactInfo": [
+        {
+          "@type": "phone",
+          "lastUpdated": [
+            2018,
+            2,
+            20
+          ],
+          "number": "1234"
+        }
+      ],
+      "firstName": "Donald",
+      "lastName": "Trump"
+    }
+  ]
+}
